@@ -51,7 +51,6 @@ Madhav E-commerce Sales Performance Dashboard Tool:
 -DAX measures for KPI calculations (Amount, Profit, Quantity, AOV) 
 -Data categorization for regions, product types, and payment methods.
 
-https://github.com/patelreena2904/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav%20Store%20dashboard.jpg
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/patelreena2904/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav%20Store%20dashboard.jpg)

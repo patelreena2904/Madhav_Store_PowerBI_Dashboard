@@ -52,3 +52,6 @@ Madhav E-commerce Sales Performance Dashboard Tool:
 -Data categorization for regions, product types, and payment methods.
 
 https://github.com/patelreena2904/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav%20Store%20dashboard.jpg
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - 
+Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/patelreena2904/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav%20Store%20dashboard.jpg))
